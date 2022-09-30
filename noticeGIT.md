@@ -1,7 +1,7 @@
 <h1>NOTICE GIT</h1>
 
 <h2>Titre</h2>
-Dans ce paragraphe nous allons vous expliquer comment fonctionne et changer un titre en GIT.
+Dans ce paragraphe nous allons vous expliquer comment **fonctionne** et changer un titre en GIT.
 <h2>Resumé</h2>
 <h2>Explication</h2>
 <h2>git clone</h2>
