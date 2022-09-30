@@ -1,7 +1,7 @@
 # NOTICE GIT
 
 ##  Titre
-Dans ce paragraphe nous allons vous expliquer comment <em><strong>fonctionne</strong></em> et <em><strong>changer</strong></em> un titre en GIT.
+Dans ce paragraphe nous allons vous expliquer comment *fonctionne* et *changer* un titre en GIT.
 
 #### Titre:
 
