@@ -19,7 +19,8 @@ Git est un logiciel libre qui a été créé en 2005 par le créateur de Linux, 
 __*git clone*__ est un utilitaire de ligne de commande Git utilisé pour cibler un dépôt existant et créer un clone ou une copie du dépôt cible.
 
 
-   -`git clone ssh://john@example.com/path/to/my-project.git` 
+   -`git clone ssh://john@example.com/path/to/my-project.git`  
+   
    -`cd my-project`
    
    
