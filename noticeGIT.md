@@ -27,6 +27,7 @@ __*git clone*__ est un utilitaire de ligne de commande Git utilisé pour cibler 
 ##  git add
 ##  commit
 ##  push
+__*git push est la commande la plus couramment utilisée pour publier des changements locaux et les charger vers un dépôt centralisé.*__ Après qu'un dépôt local a été modifié, un push est exécuté pour partager les changements avec les membres de l'équipe distants.
 ##  pull
 ##  suivi.md
 
