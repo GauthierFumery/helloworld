@@ -1,15 +1,15 @@
-<h1>gauth le goat</h1>
+<h1>NOTICE GIT</h1>
 
-Titre
+<h2>Titre</h2>
 
-Resumé
-Explication
-git clone
-git add
-commit
-push
-pull
-suivi.md
+<h2>Resumé</h2>
+<h2>Explication</h2>
+<h2>git clone</h2>
+<h2>git add</h2>
+<h2>commit</h2>
+<h2>push</h2>
+<h2>pull</h2>
+<h2>suivi.md</h2>
 ( sudo apt update
 sudo apt dist.upgrade )
 
