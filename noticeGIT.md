@@ -13,7 +13,7 @@ Pour créé des titres on utilise le dièse `#`  autant de dièse que la valeur 
   		###titre3 #####titre4 ainsi de suite jusque au 6.   
 
 ## Resumé
-Git est un logiciel libre qui a été créé en 2005 par le créateur de Linux, Linus Torvalds. Au départ, il a créé ce <em><strong>logiciel de gestion de version pour gérer les sources de son noyau open source.</em></strong> Il s'agit ainsi d'un logiciel de versioning qui permet de conserver un historique des modifications.
+Git est un logiciel libre qui a été créé en 2005 par le créateur de Linux, Linus Torvalds. Au départ, il a créé ce __*logiciel de gestion de version pour gérer les sources de son noyau open source.*__ Il s'agit ainsi d'un logiciel de versioning qui permet de conserver un historique des modifications.
 ##  Explication
 ##  git clone
 ##  git add
