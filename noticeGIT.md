@@ -3,8 +3,6 @@
 ##  Titre
 Dans ce paragraphe nous allons vous expliquer comment __*fonctionne*__ et __*changer*__ un titre en GIT.
 
-#### Titre:
-
 Pour créé des titres on utilise le dièse `#`  autant de dièse que la valeur de la balise  `<h>`un dièse pour un h1 deux dièses pour un h2. 
  		
  		
