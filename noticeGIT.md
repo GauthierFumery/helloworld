@@ -1,7 +1,7 @@
 # NOTICE GIT
 
 ##  Titre
-Dans ce paragraphe nous allons vous expliquer comment *fonctionne* et *changer* un titre en GIT.
+Dans ce paragraphe nous allons vous expliquer comment __fonctionne__ et __changer__ un titre en GIT.
 
 #### Titre:
 
@@ -21,7 +21,4 @@ Git est un logiciel libre qui a été créé en 2005 par le créateur de Linux, 
 ##  push
 ##  pull
 ##  suivi.md
-( sudo apt update
-sudo apt dist.upgrade )
 
-//https://git-scm.com/book/fr/v2
