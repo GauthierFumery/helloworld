@@ -1,2 +1,14 @@
+//gauth le goat
+//Titre
+//Resumé
+//Explication
+//git clone
+//git add
+//    commit
+//    push
+//    pull
+//suivi.md
+//( sudo apt update
+//sudo apt dist.upgrade )
 
-gauth le goat
+//https://git-scm.com/book/fr/v2
