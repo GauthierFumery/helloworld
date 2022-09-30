@@ -28,9 +28,9 @@ __*git clone*__ est un utilitaire de ligne de commande Git utilisé pour cibler 
 ##  git add
 ##  commit
 ##  push
-__*Git push est la commande la plus couramment utilisée pour publier des changements locaux et les charger vers un dépôt centralisé.*__ Après qu'un dépôt local a été modifié, un push est exécuté pour partager les changements avec les membres de l'équipe distants.
 
-La commande __git push__ est utilisée pour charger le contenu d'un __dépôt local__ vers un __dépôt distant__. Le __push__ vous permet de transférer les __commits__ de votre __dépôt local__ vers un __dépôt distant__. C'est l'équivalent de `git fetch`, mais à l'inverse du __fetch__ qui importe les __commits__ dans des __branches locales__, le push les exporte vers des __branches distantes__. Ces dernières sont configurées à l'aide de la commande `git remote`. Le __push__ est susceptible d'écraser les changements. Vous devez donc prendre des précautions lorsque vous l'exécutez. Ces problèmes sont abordés ci-dessous.
+La commande __git push__ est utilisée pour charger le contenu d'un __dépôt local__ vers un __dépôt distant__. Le __push__ vous permet de transférer les __commits__ de votre __dépôt local__ vers un __dépôt distant__. C'est l'équivalent de `git fetch`, mais à l'inverse du __fetch__ qui importe les __commits__ dans des __branches locales__, le push les exporte vers des __branches distantes__. 
+Ces dernières sont configurées à l'aide de la commande `git remote`. Le __push__ est susceptible d'écraser les changements. Vous devez donc prendre des précautions lorsque vous l'exécutez. Ces problèmes sont abordés ci-dessous.
 
 #### Utilisation de la commande Git Push
 `git push <remote> <branch>`
