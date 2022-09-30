@@ -1,7 +1,7 @@
 # NOTICE GIT
 
 ##  Titre
-Dans ce paragraphe nous allons vous expliquer comment __fonctionne__ et __changer__ un titre en GIT.
+Dans ce paragraphe nous allons vous expliquer comment __*fonctionne*__ et __*changer*__ un titre en GIT.
 
 #### Titre:
 
