@@ -1,6 +1,6 @@
-<h1>NOTICE GIT</h1>
+# H1 NOTICE GIT
 
-<h2>Titre</h2>
+## H2 Titre
 Dans ce paragraphe nous allons vous expliquer comment <em><strong>fonctionne</strong></em> et <em><strong>changer</strong></em> un titre en GIT.
 
 #### Titre:
@@ -12,15 +12,15 @@ Pour créé des titres on utilise le dièse `#`  autant de dièse que la valeur 
   		##titre2 sera l'équivalent html d'un <h2>
   		###titre3 #####titre4 ainsi de suite jusque au 6.   
 
-<h2>Resumé</h2>
+## H2Resumé
 Git est un logiciel libre qui a été créé en 2005 par le créateur de Linux, Linus Torvalds. Au départ, il a créé ce <em><strong>logiciel de gestion de version pour gérer les sources de son noyau open source.</em></strong> Il s'agit ainsi d'un logiciel de versioning qui permet de conserver un historique des modifications.
-<h2>Explication</h2>
-<h2>git clone</h2>
-<h2>git add</h2>
-<h2>commit</h2>
-<h2>push</h2>
-<h2>pull</h2>
-<h2>suivi.md</h2>
+## H2 Explication
+## H2 git clone
+## H2 git add
+## H2 commit
+## H2 push
+## H2 pull
+## H2 suivi.md
 ( sudo apt update
 sudo apt dist.upgrade )
 
