@@ -26,6 +26,19 @@ __*git clone*__ est un utilitaire de ligne de commande Git utilisé pour cibler 
    
 # Start working on the project
 ##  git add
+__*git add*__ ajoute un changement dans le répertoire de travail à la zone de staging. Elle informe Git que vous voulez inclure les mises à jour dans un fichier particulier du commit suivant. 
+
+Cependant, __git add__ n'impacte pas le dépôt de manière significative. Les changements ne sont pas réellement enregistrés jusqu'à ce que vous exécutiez __git commit__.
+
+#### Utilisation de la commande Git Add
+`git add <file>`
+Permet de stager tous les changements dans <fichier> pour le commit suivant.
+
+`git add <directory>`
+Permet de stager tous les changements dans <répertoire> pour le commit suivant.
+
+`git add -p`
+Permet de démarrer une session de staging interactif afin de choisir des parties d'un fichier à ajouter au commit suivant. Un bloc de changements apparaîtra, et vous serez invité à saisir une commande. Utilisez y pour stager le bloc, n pour l'ignorer, s pour le diviser en blocs plus petits, e pour le modifier manuellement et q pour quitter.
 ##  commit
 ##  push
 
