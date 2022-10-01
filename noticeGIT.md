@@ -32,12 +32,16 @@ Cependant, __git add__ n'impacte pas le dépôt de manière significative. Les c
 
 #### Utilisation de la commande Git Add
 `git add <file>`
-Permet de stager tous les changements dans <fichier> pour le commit suivant.
+
+Permet de stager tous les changements dans `<fichier>` pour le commit suivant.
 
 `git add <directory>`
-Permet de stager tous les changements dans <répertoire> pour le commit suivant.
+
+Permet de stager tous les changements dans `<répertoire>` pour le commit suivant.
+
 
 `git add -p`
+
 Permet de démarrer une session de staging interactif afin de choisir des parties d'un fichier à ajouter au commit suivant. Un bloc de changements apparaîtra, et vous serez invité à saisir une commande. Utilisez y pour stager le bloc, n pour l'ignorer, s pour le diviser en blocs plus petits, e pour le modifier manuellement et q pour quitter.
 ##  commit
 ##  push
