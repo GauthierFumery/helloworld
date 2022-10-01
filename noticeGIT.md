@@ -18,9 +18,10 @@ Pour créé des **titres** on utilise le dièse `#` autant de **dièse** que la 
 ##  Git Status
 ***Git status*** affiche **l'état** du **répertoire de travail** et de la **zone de staging**. Elle vous permet de voir les **changements qui ont été stagés**, ceux qui **ne l'ont pas été**, ainsi que **les fichiers qui sont trackés par Git**. 
 
-	`git status`
+`git status`
+
 ##  Git Clone
-__*git clone*__ est un utilitaire de ligne de commande Git utilisé pour cibler un **dépôt existant** et créer un **clone** ou une copie du **dépôt cible**.
+__*Git clone*__ est un utilitaire de ligne de commande Git utilisé pour cibler un **dépôt existant** et créer un **clone** ou une copie du **dépôt cible**.
 
 
    `git clone ssh://john@example.com/path/to/my-project.git`
@@ -43,7 +44,7 @@ Permet de **stager** tous les changements dans `<fichier>` pour le **commit suiv
 Permet de **stager** tous les changements dans `<répertoire>` pour le **commit suivant**.
 
 ##  Git Commit
-***Git commit*** capture un **instantané des changements actuellement stagés du projet**. Les **instantanés commités** peuvent être considérés comme des **versions « sûres » d'un projet**. Avant d'exécuter `git commit`, `git add` est utilisée pour **promouvoir ou « stager »** les **changements** apportés au projet qui seront stockés dans un **commit**. Ces deux commandes `git commit` et `git add` font partie des plus **fréquemment utilisées**.
+***Git commit*** capture un **instantané des changements actuellement stagés du projet**. Les **instantanés commités** peuvent être considérés comme des **versions « sûres » d'un projet**. Avant d'exécuter `git commit`, `git add` est utilisée pour **promouvoir** ou **« stager »** les **changements** apportés au projet qui seront stockés dans un **commit**. Ces deux commandes `git commit` et `git add` font partie des plus **fréquemment utilisées**.
 
 #### Utilisation de la commande Git Commit
 `git commit` 
