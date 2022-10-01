@@ -16,7 +16,9 @@ Pour créé des **titres** on utilise le dièse `#` autant de **dièse** que la 
 ***Git*** est un **logiciel libre** qui a été créé en **2005** par le créateur de **Linux**, **Linus Torvalds**. Au départ, il a créé ce <em><strong>logiciel de gestion de version pour gérer les sources de son noyau open source.</em></strong> Il s'agit ainsi d'un **logiciel de versioning** qui permet de **conserver** un **historique des modifications**.
 # Commande Git
 ##  Git Status
-***git status*** affiche **l'état** du **répertoire de travail** et de la **zone de staging**. Elle vous permet de voir les **changements qui ont été stagés**, ceux qui **ne l'ont pas été**, ainsi que **les fichiers qui sont trackés par Git**. 
+***Git status*** affiche **l'état** du **répertoire de travail** et de la **zone de staging**. Elle vous permet de voir les **changements qui ont été stagés**, ceux qui **ne l'ont pas été**, ainsi que **les fichiers qui sont trackés par Git**. 
+
+	`git status`
 ##  Git Clone
 __*git clone*__ est un utilitaire de ligne de commande Git utilisé pour cibler un **dépôt existant** et créer un **clone** ou une copie du **dépôt cible**.
 
