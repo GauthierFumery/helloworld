@@ -58,17 +58,17 @@ Après un **sprint**, l'**équipe** démontre ce qu'elle a accompli au cours de 
 
 Après La Fin d'un **sprint**. C'est l'occasion pour votre **équipe** d'identifier les points à **améliorer** pour le **prochain sprint**. Avec cela, vous êtes prêt à **démarrer votre prochain cycle de sprint**. C'est parti !
 
-## stand up meeting
+## Stand up meeting
 un **stand-up** est une **réunion quotidienne** qui implique **l'équipe de base**. Cette réunion est unique pour **chaque équipe**. il permet à l'**équipe** de rester **informée**, **connectée** et **calibrée** tout au long du **projet**.
  
-## users story
+## Users story
 Une **user story** est une **explication non formelle**, générale d'une **fonctionnalité logicielle** écrite du **point de vue** de l'**utilisateur final**. 
 L'**objectif** d'une **user story** est de définir comment un **travail** apportera une certaine valeur ajoutée au **client**. Remarque : les « clients » ne doivent pas forcément être des **utilisateurs externes** au sens traditionnel. Il peut s'agir de clients en interne ou de collègues qui, au sein de votre **organisation**, dépendent de votre **équipe**.
 
 ## KANBAN
 **Kanban** est un **framework** populaire pour implémenter le **développement logiciel** **Agile** et **DevOps**. Il repose sur un travail effectué en toute transparence et une communication en temps réel de la capacité. Les **tâches** sont représentées **visuellement** sur un **tableau Kanban**. Ainsi, les **membres de l'équipe** peuvent voir l'**état** de chaque **tâche** à tout moment.
 
-## planning poker
+## Planning poker
 L’**estimation des charges** pour la réalisation d’une **action** ou d’une **fonctionnalité** est certainement l’une des **tâches** les plus **complexes de la gestion d’un projet**. Elle nécessite la **confrontation** et la **collaboration d’experts techniques** et d’**experts fonctionnels**, et est particulièrement dépendante de l’expérience des personnes participant à l’**estimation** ainsi que de leurs **connaissances** du **client** et de son **environnement technique**.
 
 Lors de l’estimation de la **charge de réalisation** d’une **fonctionnalité**, les **participants** vont utiliser un **jeu de cartes** spécialement adapté à l’**évaluation** de la **durée d’exécution** et de la **complexité des tâches**. Les **cartes** comportent les valeurs suivantes : 0, 0.5, 1, 2, 3, 5, 8, 13, 20, 40, 100, « ∞ » et « ? ».
