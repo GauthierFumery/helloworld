@@ -37,3 +37,25 @@ Créer un groupe de travail permet de répartir les **tâches** en fonction des 
 L’un des avantages du travail en équipe pour le manager est de recevoir plusieurs **avis** sur un projet donné. Ainsi, il vous est facile de prendre la **meilleure décision**. De leur côté, les membres de l’équipe partagent des idées ; ce qui favorise l’échange au sein de **l’équipe**. Plus les **collaborateurs** communiquent entre eux, plus ils créent des **liens**. C’est cette **cohésion d’équipe** qui conduit **les collaborateurs** à coopérer pour réaliser le projet qui leur est confié.
 
 Le travail en équipe permet également de **favoriser le développement des compétences dans l’équipe**, de **limiter les risques en cas d’absence** et de **développer l’intelligence collective**. On parle plus volontiers aujourd’hui de travail **collaboratif**. La capacité à collaborer dans les projets devient en effet une **compétence indispensable**.
+
+## BackLog
+Le **backlog** est une **liste de tâches priorisées** définissant **les caractéristiques d’un produit**. Il s’agit de **l’outil de travail principal** du **Product Owner** qui se charge de recueillir les besoins auprès des parties prenantes et de les transformer en **liste de fonctionnalités prêtes à être développées** par l’équipe de développement.
+
+## Sprint 
+Un **sprint** désigne une **brève période limitée dans le temps** dont une équipe a besoin pour effectuer une **quantité de travail donnée**. Savoir les utiliser aidera votre équipe à livrer de **meilleurs logiciels** en s'évitant bien des maux de tête. 
+
+## Reunion de debut/fin de sprint
+
+## stand up meeting
+
+## users story
+
+## valeur/complexite
+
+## KANBAN
+
+## Post it
+
+## planning poker
+
+## Product Owner
