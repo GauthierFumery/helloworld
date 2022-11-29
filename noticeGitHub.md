@@ -13,7 +13,7 @@
 
 3- Ensuite, cliquez sur **« Create repository »** (pour créer le dépôt).
 
-## Ajout de memebre
+## Ajout de membre
 1- Demandez le nom d'utilisateur de la personne que vous invitez en tant que collaborateur. Si elle n'a pas encore de nom d'utilisateur, elle doit s'inscrire sur **GitHub**.
 
 2- Sur **GitHub**, accédez à la **page principale du dépot**.
