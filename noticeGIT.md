@@ -72,5 +72,6 @@ La commande `git pull` est en fait la combinaison de **deux autres commandes**, 
 
 Faites un **fetch** de la copie de la **branche actuelle** du **dépôt spécifié** et mergez-la immédiatement dans la **copie locale**.
 
+![alt text](https://miro.medium.com/max/1204/1*zpvd5fjZAFGsVAEsvMGKxA.png)
 
 
